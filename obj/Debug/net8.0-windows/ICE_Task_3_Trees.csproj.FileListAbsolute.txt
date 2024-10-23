@@ -1,0 +1,4 @@
+C:\Users\Yagi\source\repos\ICE_Task_3_Trees\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Yagi\source\repos\ICE_Task_3_Trees\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yagi\source\repos\ICE_Task_3_Trees\obj\Debug\net8.0-windows\ICE_Task_3_Trees_MarkupCompile.cache
+C:\Users\Yagi\source\repos\ICE_Task_3_Trees\obj\Debug\net8.0-windows\ICE_Task_3_Trees_MarkupCompile.lref
